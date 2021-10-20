@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "358026075965",
+    "project_id": "projectpiton",
+    "storage_bucket": "projectpiton.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358026075965:android:a41c7076704f8400262f54",
+        "android_client_info": {
+          "package_name": "com.example.projectpiton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358026075965-tocj48mnc8t9rsjb2iokmh629dcktre4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaiEH5QQlVGp7s_5AdY3zKi18VabhwS1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358026075965-tocj48mnc8t9rsjb2iokmh629dcktre4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
